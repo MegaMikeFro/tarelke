@@ -22,3 +22,17 @@ body {
       bottom: 0;
       width: 100%;
     }
+
+.contacts .contact_box .box a {
+  background-color: #ff005a;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 700;
+  padding: 18px 30px;
+  transition: all 0.2s;
+}
+.contacts .contact_box .box a.bordered {
+  background: none;
+  border: 2px solid #ff005a;
+  padding: 16px 28px;
+}
