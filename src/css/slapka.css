@@ -13,7 +13,7 @@ body {
 
 
 .item {
-	padding: 40px;
+	padding: 30px;
 	font-size: 25px;
 	border: 1px solid black;
 	height: fit-content;
@@ -29,9 +29,34 @@ body {
 	align-content: flex-start;
 }
 
+.back {
+	display: block;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	left: 800px;
+	top: 100px;
+	padding: 30px;
+	font-size: 25px;
+	border: 5px solid black;
+	text-align: center;
+	text-decoration: none;
+}
 
 .zag {
 	margin: 0;
+}
+
+.Persimmon {
+	color: #f8481c;
+}
+
+.blue {
+	color: blue;
+}
+
+.bright-orange {
+	color: orange;
 }
 
 
